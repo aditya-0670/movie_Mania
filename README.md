@@ -78,19 +78,3 @@ The project follows this directory structure:
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or bug fixes, please open an issue or submit a pull request. Follow the project's code of conduct and contribution guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **Movie Database API:** For providing comprehensive movie and actor data.
-- **React Community:** For the development and support of React.
-
----
-
-Feel free to reach out if you have any questions or need further assistance with the Movie Showcase App. Enjoy discovering movies!
-```
-
-This file includes all setup steps in a single continuous section, ensuring clarity and ease of use. Adjust any placeholder text and links as needed to fit your project's specifics.
